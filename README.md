@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🧬 Hi there, I'm Mich! 👋
 
-<!--
-**michinsilico/michinsilico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### "In Silico" Explorer | Future Bioengineer 🧫💻
 
-Here are some ideas to get you started:
+Welcome to my computational biology and software sandbox. I am a 10th grader from Indonesia passionate about combining **Python Coding**, **Chemistry**, and **Biology** to simulate life and solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Active Projects
+* **👶 EduPediatrik Web App:** A digital assistant designed to help mothers track child development and check pediatric symptoms safely based on medical literature.
+* **🧪 Bioreactor Simulator:** A Python program mapping logistic growth equations to visualize bacterial population dynamics over time.
+
+---
+
+### 📊 Tech Stack & Tools
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://vercel.app" height="150" />
+  <img src="https://vercel.app" height="150" />
+</p>
+
+*"Equipped with grit, scaling up from class 10 to the global stage."* 🌟
+
