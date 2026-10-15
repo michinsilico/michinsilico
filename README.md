@@ -1,4 +1,4 @@
-# 🧬 Hi there, I'm Michelle! 👋
+# 👾 Hi there, I'm Michelle! 👋
 
 ### "In Silico" Explorer | Future Bioengineer 🧫💻
 
